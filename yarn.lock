@@ -173,20 +173,20 @@ graceful-fs@^4.1.2, graceful-fs@^4.1.6:
   version "4.1.11"
   resolved "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.1.11.tgz#0e8bdfe4d1ddb8854d64e04ea7c00e2a026e5658"
 
-graphcool-json-schema@1.2.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/graphcool-json-schema/-/graphcool-json-schema-1.2.0.tgz#6c7a9de36a130c5048fa8d9817dff2b5a88bc226"
+graphcool-json-schema@1.2.1:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/graphcool-json-schema/-/graphcool-json-schema-1.2.1.tgz#6cefb6c8b50543615e6efa43bb54f9e3fbb281f3"
 
-graphcool-yml@0.4.8:
-  version "0.4.8"
-  resolved "https://registry.yarnpkg.com/graphcool-yml/-/graphcool-yml-0.4.8.tgz#c1e70a88ccc8b8eea81fb80b7c369a2b734240b9"
+graphcool-yml@0.4.15:
+  version "0.4.15"
+  resolved "https://registry.yarnpkg.com/graphcool-yml/-/graphcool-yml-0.4.15.tgz#9834a25daa62dc609558509a67396763ff81503b"
   dependencies:
     ajv "^5.5.1"
     bluebird "^3.5.1"
     debug "^3.1.0"
     dotenv "^4.0.0"
     fs-extra "^4.0.3"
-    graphcool-json-schema "1.2.0"
+    graphcool-json-schema "1.2.1"
     isomorphic-fetch "^2.2.1"
     js-yaml "^3.10.0"
     json-stable-stringify "^1.0.1"
