@@ -9,7 +9,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "graphcool-yml": "0.4.15",
-    "graphql-config": "2.0.0"
+    "graphql-config": "2.0.1"
   },
   "devDependencies": {
     "@types/node": "9.3.0",
