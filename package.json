@@ -9,12 +9,13 @@
   "license": "Apache-2.0",
   "dependencies": {
     "graphcool-yml": "0.4.15",
-    "graphql-config": "2.0.0"
+    "graphql-config": "^2.0.1"
   },
   "devDependencies": {
-    "@types/node": "9.3.0",
-    "ts-node": "4.1.0",
-    "typescript": "2.6.2"
+    "@types/node": "9.4.6",
+    "graphql": "0.13.1",
+    "ts-node": "5.0.0",
+    "typescript": "2.7.2"
   },
   "scripts": {
     "test": "cd src/example && ts-node test.ts",
