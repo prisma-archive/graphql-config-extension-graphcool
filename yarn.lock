@@ -165,9 +165,9 @@ graphcool-yml@0.4.15:
     scuid "^1.0.2"
     yaml-ast-parser "^0.0.40"
 
-graphql-config@2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/graphql-config/-/graphql-config-2.0.1.tgz#d34a9bdf1d7360af7b01db9b20260a342ddc7390"
+graphql-config@^2.0.1:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/graphql-config/-/graphql-config-2.1.0.tgz#f07107ac44b661282d2002497de588f01aa92c9d"
   dependencies:
     graphql-import "^0.4.4"
     graphql-request "^1.5.0"
@@ -187,11 +187,11 @@ graphql-request@^1.5.0:
   dependencies:
     cross-fetch "1.1.1"
 
-graphql@^0.13.1:
-  version "0.13.1"
-  resolved "https://registry.yarnpkg.com/graphql/-/graphql-0.13.1.tgz#9b3db3d8e40d1827e4172404bfdd2e4e17a58b55"
+graphql@14.0.2:
+  version "14.0.2"
+  resolved "https://registry.yarnpkg.com/graphql/-/graphql-14.0.2.tgz#7dded337a4c3fd2d075692323384034b357f5650"
   dependencies:
-    iterall "^1.2.0"
+    iterall "^1.2.2"
 
 has-flag@^2.0.0:
   version "2.0.0"
@@ -212,9 +212,9 @@ isomorphic-fetch@^2.2.1:
     node-fetch "^1.0.1"
     whatwg-fetch ">=0.10.0"
 
-iterall@^1.2.0:
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/iterall/-/iterall-1.2.1.tgz#59a347ae8001d2d4bc546b8487ca755d61849965"
+iterall@^1.2.2:
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/iterall/-/iterall-1.2.2.tgz#92d70deb8028e0c39ff3164fdbf4d8b088130cd7"
 
 js-yaml@^3.10.0:
   version "3.10.0"
