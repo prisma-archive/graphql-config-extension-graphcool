@@ -9,11 +9,11 @@
   "license": "Apache-2.0",
   "dependencies": {
     "graphcool-yml": "0.4.15",
-    "graphql-config": "^2.0.1"
+    "graphql-config": "^2.2.0"
   },
   "devDependencies": {
     "@types/node": "9.4.6",
-    "graphql": "0.13.1",
+    "graphql": "14.0.2",
     "ts-node": "5.0.0",
     "typescript": "2.7.2"
   },
