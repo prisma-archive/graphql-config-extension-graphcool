@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-"@types/node@9.4.6":
-  version "9.4.6"
-  resolved "http://registry.npmjs.org/@types/node/-/node-9.4.6.tgz#d8176d864ee48753d053783e4e463aec86b8d82e"
+"@types/node@9.6.52":
+  version "9.6.52"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-9.6.52.tgz#ddba1f1fdaf1487a0a992ee238c43f5318ba5625"
 
 ajv@^5.5.1:
   version "5.5.2"
